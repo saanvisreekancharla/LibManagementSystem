@@ -1,1 +1,3 @@
-print("library management system")
+def add_book():
+    print("Book added successfully")
+ 
